@@ -1,0 +1,9 @@
+---
+title: "Open Statistical Programming Tutorials"
+---
+
+![](/resources/spiral.gif)
+
+You are becoming very sleepy...
+
+You want to learn [R](https://cran.r-project.org/index.html)...
